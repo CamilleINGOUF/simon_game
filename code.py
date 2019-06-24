@@ -86,9 +86,8 @@ def game_won():
         pass               
 
 ## Initiate the game ##
-cpx.pixels.fill(0)
 cpx.pixels.brightness = 0.005
-cpx.pixels[0] = 0xFFFFFF
+cpx.pixels.fill(0xFFFFFF)
 sequence = random_sequence()
 current_step = 1
 ########################

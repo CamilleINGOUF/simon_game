@@ -7,7 +7,7 @@ Simon's game
 Fonctionnement
 ---
 
-Le jeu se lance avec un pixel en blanc. Il suffit d'appuyer sur le bouton "a" ou "b" pour lancer une partie.
+Le jeu se lance avec un cercle blanc. Il suffit d'appuyer sur le bouton "a" ou "b" pour lancer une partie.
 
 Un pattern de 8 étapes est défini aléatoirement.
 La première étape du pattern est montrée, puis il suffit de la copier en touchant les pads correspondants.
